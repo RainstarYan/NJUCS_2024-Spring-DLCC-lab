@@ -20,37 +20,50 @@
 
 ### 2.使用准则 Guidelines
 #### 坚决禁止的行为 Strictly Prohibited Actions
-未加任何思考直接复用实验源文件提交 Submitting the experimental source file without any modification or thought.
+未加任何思考直接复用实验源文件提交 
+Submitting the experimental source file without any modification or thought.
 
-抄袭或直接复用实验报告源文件提交 Plagiarizing or directly reusing the source file of the experimental report for submission.
+抄袭或直接复用实验报告源文件提交 
+Plagiarizing or directly reusing the source file of the experimental report for submission.
 
 
 #### 不被推荐的行为 Behaviors That Are Not Recommended
-在没有独立思考前，参考源文件照搬实现方案 Referring to the source file and copying the implementation plan without independent thinking.
+在没有独立思考前，参考源文件照搬实现方案 
+Referring to the source file and copying the implementation plan without independent thinking.
 
-在没有完全理解实验内容前，试图参考源文件获得思路 Attempting to gain ideas by referring to the source file before fully understanding the experimental content.
+在没有完全理解实验内容前，试图参考源文件获得思路 
+Attempting to gain ideas by referring to the source file before fully understanding the experimental content.
 
-因抵触做实验而直接参考源文件中的内容 Referring directly to the content in the source file out of aversion to conducting the experiment.
+因抵触做实验而直接参考源文件中的内容 
+Referring directly to the content in the source file out of aversion to conducting the experiment.
 
-已经完成了前置实验，希望提前“推进”实验进度而在新版实验手册未公布的前提下借助本仓库超前赶实验（实验手册的发布往往小幅度提前于实验本身的进度，我们不鼓励过分超前“卷”的行为，况且在最新的实验手册发布前，参考本仓库的内容而完成实验很可能造成各种bug或问题） Having completed the preliminary experiments, attempting to “advance” the experimental progress by referring to this repository before the new experimental manual is released (the release of the experimental manual usually slightly precedes the actual experimental progress. We do not encourage the behavior of overly advancing or “out-competing” others. Moreover, completing the experiments by referring to the content of this repository before the latest experimental manual is released may likely cause various bugs or issues).
+已经完成了前置实验，希望提前“推进”实验进度而在新版实验手册未公布的前提下借助本仓库超前赶实验（实验手册的发布往往小幅度提前于实验本身的进度，我们不鼓励过分超前“卷”的行为，况且在最新的实验手册发布前，参考本仓库的内容而完成实验很可能造成各种bug或问题） 
+Having completed the preliminary experiments, attempting to “advance” the experimental progress by referring to this repository before the new experimental manual is released (the release of the experimental manual usually slightly precedes the actual experimental progress. We do not encourage the behavior of overly advancing or “out-competing” others. Moreover, completing the experiments by referring to the content of this repository before the latest experimental manual is released may likely cause various bugs or issues).
 
 
 #### 被允许但责任自负的行为 Actions That Are Permitted But At Your Own Risk
-使用与实验报告完全相同的格式 Using the exact same format as the experimental report.
+使用与实验报告完全相同的格式 
+Using the exact same format as the experimental report.
 
-使用与实验报告完全相同的实现方案 Using the exact same implementation plan as the experimental report.
+使用与实验报告完全相同的实现方案 
+Using the exact same implementation plan as the experimental report.
 
 
 #### 被允许且受欢迎的行为 Actions That Are Permitted and Encouraged
-已经完成实验甚至通过验收，试图寻找更多可能的实现方案和思路 Having completed the experiment and even passed the acceptance, attempting to seek more possible implementation plans and ideas.
+已经完成实验甚至通过验收，试图寻找更多可能的实现方案和思路 
+Having completed the experiment and even passed the acceptance, attempting to seek more possible implementation plans and ideas.
 
-已经独立完成绝大部分工作，但存在长时间无法解决的bug，借助本仓库debug Having independently completed the vast majority of the work but encountering bugs that have remained unresolved for a long time, using this repository to debug.
+已经独立完成绝大部分工作，但存在长时间无法解决的bug，借助本仓库debug 
+Having independently completed the vast majority of the work but encountering bugs that have remained unresolved for a long time, using this repository to debug.
 
-已经完全理解实验内容并有了自己的实现思路，但工作量过大并抵触无谓的连线工作 Having fully understood the experimental content and already having your own implementation ideas, but feeling averse to the tedious wiring work due to the large amount of work involved.
+已经完全理解实验内容并有了自己的实现思路，但工作量过大并抵触无谓的连线工作 
+Having fully understood the experimental content and already having your own implementation ideas, but feeling averse to the tedious wiring work due to the large amount of work involved.
 
-已经基本形成了自己的思路和实现，但卡在某些步骤无法继续进行 Having essentially formed your own ideas and implementation plans, but being stuck at certain steps and unable to proceed further.
+已经基本形成了自己的思路和实现，但卡在某些步骤无法继续进行 
+Having essentially formed your own ideas and implementation plans, but being stuck at certain steps and unable to proceed further.
 
-已经多次独立尝试过完成实验，但多次受挫并试图寻求其他思路或发现自己思路中的问题 Having made multiple independent attempts to complete the experiment but encountering repeated setbacks, and trying to seek alternative ideas or identify problems in your own approach.
+已经多次独立尝试过完成实验，但多次受挫并试图寻求其他思路或发现自己思路中的问题 
+Having made multiple independent attempts to complete the experiment but encountering repeated setbacks, and trying to seek alternative ideas or identify problems in your own approach.
 
 
 ### 3.警告 Warnings
